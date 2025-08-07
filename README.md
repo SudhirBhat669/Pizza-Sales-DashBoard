@@ -1,6 +1,25 @@
 # 🍕 Pizza Sales Analysis Dashboard
 
 📷 Screenshots
+<img width="902" height="160" alt="Image" src="https://github.com/user-attachments/assets/c1040e39-b92d-4a50-838a-61dfa92c9385" />
+
+<img width="940" height="450" alt="Image" src="https://github.com/user-attachments/assets/f98fe0b7-c793-40d3-8844-54db889699a0" />
+
+<img width="940" height="450" alt="Image" src="https://github.com/user-attachments/assets/2d9b7e13-b92e-402c-b61e-215f21ae94bd" />
+
+<img width="940" height="450" alt="Image" src="https://github.com/user-attachments/assets/d56ac368-a181-4160-a3ae-f8518d34ec0d" />
+
+<img width="940" height="450" alt="Image" src="https://github.com/user-attachments/assets/05b4f0be-c603-4268-9e46-e25d01186f39" />
+
+<img width="940" height="450" alt="Image" src="https://github.com/user-attachments/assets/962c1c1a-e867-40a9-b2e4-57461d56b3ef" />
+
+<img width="940" height="450" alt="Image" src="https://github.com/user-attachments/assets/00e19ec1-5086-472a-8232-caffb9157e65" />
+
+## 📁 Project Structure
+- pizza_sales_analysis.py
+- Data Model - Pizza Sales.xlsx
+- report.docx
+- README.md
 
 ## 📊 Project Overview
 This project focuses on analyzing pizza sales data to uncover insights about customer preferences, sales trends, and operational optimizations. The analysis helps answer questions such as:
@@ -78,11 +97,7 @@ The insights are visualized using Python and presented in a dashboard-style repo
 - Customer segmentation with ML
 - Forecasting sales using ARIMA models
 
-## 📁 Project Structure
-- pizza_sales_analysis.py
-- Data Model - Pizza Sales.xlsx
-- report.docx
-- README.md
+
 
 
 
